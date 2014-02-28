@@ -2,23 +2,23 @@
 
 ## Slide 1
 
-Hello! My name is Tyler Fisher. I work at NPR, but today I’m going to talk about the work I’ve done at Northwestern University, where I am a senior in the Medill School of Journalism.
+Hello! My name is Tyler Fisher. I work at NPR, but today I’m going to talk about the work I’ve done at Northwestern University, where I am a senior in the Medill School of Journalism. At Northwestern, I’ve raised an army, and I’d like to tell you how and why all journalism schools and even publications should be trying to do the same.
 
 ## Slide 2
 
-So, what army are we talking about here? Well, my army is here.
+My army is in this room. They’re the youngest people here and some of the most eager to learn. They devour new knowledge and skills daily. 
 
 ## Slide 3
 
-I am an undergraduate fellow at the Knight Lab at Northwestern, and we've brought 10 fellows to this year's NICAR. For many of them, it is their first NICAR and their first year building for the web. They're all amazing, and you should meet all of them.
+I am an undergraduate fellow at the Knight Lab at Northwestern, and we've brought 10 fellows to this year's NICAR. For many of them, it is their first NICAR and their first year making journalism for the web. They're all amazing, and you should meet all of them.
 
-But getting to them wasn't easy.
+How we got them to the Knight Lab was a little difficult.
 
 We graduated a bunch of undergraduate fellows in 2013, and had a ton of open positions. We just had no idea who we were going to hire.
 
 ## Slide 4 
 
-We put out some calls for fellows, and we got a lot of interested students with no experience. They had no experience because Medill had never exposed them to the web in any meaningful way. So the question became, how can we take this interest and turn it into talent?
+We put out some calls for fellows, and we got a lot of interested students with little experience. They had little experience because Medill had never exposed them to the web in any meaningful way. So the question became, how can we take this interest and turn it into talent?
 
 ## Slide 5
 
