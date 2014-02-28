@@ -2,7 +2,7 @@
 
 ## Slide 1
 
-Hello! My name is Tyler Fisher, and I’m a senior at the Medill School of Journalism. I also intern with the NPR Visuals Team doing news apps. I'm going to talk about how to raise an army; that is, how to get journalists invested in and building for the web from my experience at Northwestern.
+Hello! My name is Tyler Fisher. I work at NPR, but today I’m going to talk about the work I’ve done at Northwestern University, where I am a senior in the Medill School of Journalism.
 
 ## Slide 2
 
@@ -10,7 +10,7 @@ So, what army are we talking about here? Well, my army is here.
 
 ## Slide 3
 
-I am an undergraduate fellow at the Knight Lab at Northwestern, and we've brought 8 fellows to this year's NICAR. For many of them, it is their first NICAR and their first year building for the web. They're all amazing, and you should meet all of them.
+I am an undergraduate fellow at the Knight Lab at Northwestern, and we've brought 10 fellows to this year's NICAR. For many of them, it is their first NICAR and their first year building for the web. They're all amazing, and you should meet all of them.
 
 But getting to them wasn't easy.
 
@@ -26,7 +26,7 @@ Put another way: How do we make the Knight Lab a **community** of webmakers at N
 
 ## Slide 6
 
-Instead of focusing on building new software, as fellows typically did at the Knight Lab, we started focusing on building a new community. We came up with three major initiatives.
+Instead of focusing on building new software, as fellows typically do at the Knight Lab, we started focusing on building a new community. We came up with three major initiatives.
 
 ## Slide 7
 
@@ -48,7 +48,7 @@ Finally, and perhaps most successfully, we hold Open Lab Hours once a week for t
 
 ## Slide 11
 
-Importantly, the Lab is run by students, so the students own how the night goes. If everyone wants to hack together on one project, they can. If they want a fellow to give a short presentation on something cool, that can happen too. Having the Open Lab Hours gives students something to own. Even if they aren't fellows at the Lab yet, they feel like they're a part of something and keep coming back.
+Importantly, the Open Labs are run by students, so the students own how the nights go. If everyone wants to hack together on one project, they can. If they want a fellow to give a short presentation on something cool, that can happen too. Having the Open Lab Hours gives students something to own. Even if they aren't fellows at the Lab yet, they feel like they're a part of something and keep coming back.
 
 ## Slide 12
 
