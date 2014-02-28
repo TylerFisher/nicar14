@@ -10,13 +10,15 @@ My army is in this room. They’re the youngest people here and some of the most
 
 ## Slide 3
 
-I am an undergraduate fellow at the Knight Lab at Northwestern, and we've brought 10 fellows to this year's NICAR. For many of them, it is their first NICAR and their first year making journalism for the web. They're all amazing, and you should meet all of them.
+They are undergraduate fellows at the Knight Lab at Northwestern.  We’ve brought 10 fellows this year. For many of them, it is their first NICAR and their first year making journalism for the web. They're all amazing, and you should meet all of them.
 
 How we got them to the Knight Lab was a little difficult.
 
-We graduated a bunch of undergraduate fellows in 2013, and had a ton of open positions. We just had no idea who we were going to hire.
+In 2013, we graduated a bunch of undergraduate fellows, and had a ton of open positions. We just had no idea who we were going to hire.
 
 ## Slide 4 
+
+Finding talent at one of the best journalism schools in the world shouldn’t be hard. But it kind of was, and it’s not at all the fault of Medill students.
 
 We put out some calls for fellows, and we got a lot of interested students with little experience. They had little experience because Medill had never exposed them to the web in any meaningful way. So the question became, how can we take this interest and turn it into talent?
 
